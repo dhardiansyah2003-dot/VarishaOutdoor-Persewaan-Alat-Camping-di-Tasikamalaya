@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background: #f3f3f2;
   color: #333;
 }
@@ -41,7 +41,7 @@ body {
 
 .nav-links a {
   text-decoration: none;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #000000;
   font-weight: 500;
   transition: color 0.3s;
@@ -98,11 +98,13 @@ body {
 .hero h1 {
   font-size: 2.2rem;
   margin-bottom: 12px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .hero p {
   font-size: 1.1rem;
   margin-bottom: 24px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* Responsif */
