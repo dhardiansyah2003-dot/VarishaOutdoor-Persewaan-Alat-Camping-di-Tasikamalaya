@@ -28,7 +28,7 @@ body {
 
 
 .logo img {
-  height: 45px; 
+  height: 30px; 
   width: auto;
   border-radius: 8px;
 }
@@ -48,7 +48,7 @@ body {
 }
 
 .nav-links a:hover {
-  color: #ffd700;
+  color: #034044;
 }
 
 /* Hero Section */
@@ -126,7 +126,7 @@ body {
 /* Tombol utama */
 .btn-produk {
   display: inline-block;
-  background-color: #FFD43B;
+  background-color: #034044;
   color: #000;
   font-weight: bold;
   text-decoration: none;
@@ -140,14 +140,14 @@ body {
 
 /* Efek hover untuk laptop */
 .btn-produk:hover {
-  background-color: #ffcc00;
+  background-color: #034044;
   transform: scale(1.05);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
 }
 
 /* Efek sentuh di HP */
 .btn-produk:active {
-  background-color: #ffbb00;
+  background-color: #034044;
   transform: scale(0.97);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
 }
@@ -241,7 +241,7 @@ body {
 .categories {
   text-align: center;
   padding: 80px 20px;
-  background-color: #f8f8f7;
+  background-color: #ffffff;
 }
 
 .categories h2 {
@@ -263,7 +263,7 @@ body {
 .categories {
   text-align: center;
   padding: 80px 20px;
-  background-color: #fcc102;
+  background-color: #034044;
 }
 
 .categories img {
@@ -273,13 +273,13 @@ max-width: 300px;
 .categories h2 {
   font-size: 2rem;
   margin-bottom: 50px;
-  color: #000000;
+  color: #ffffff;
   letter-spacing: 1px;
 }
 .categories p {
   font-size: 20px;
   margin-bottom: 10px;
-  color: #000000;
+  color: #ffffff;
   letter-spacing: 1px;
 }
 /* Grid 4 kolom responsif */
@@ -320,7 +320,7 @@ max-width: 300px;
   margin-top: 12px;
   font-size: 1rem;
   font-weight: 600;
-  color: #000000;
+  color: #ffffff;
 }
 
 /* Responsif tapi tetap 4 kolom */
@@ -440,12 +440,12 @@ footer {
 }
 
 .footer-info h3 {
-  color: #FFD43B;
+  color:#fbff00;
   margin: 8px 0;
 }
 
 .footer-contact h3 {
-  color: #FFD43B;
+  color: #fbff00;
   margin: 8px 0;
 }
 
@@ -462,7 +462,7 @@ footer {
 }
 
 .footer-contact a {
-  color: #FFD43B;
+  color: #fbff00;
   text-decoration: none;
 }
 
